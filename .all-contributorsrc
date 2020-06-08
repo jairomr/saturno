@@ -8,10 +8,21 @@
   "commit": false,
   "skipCi": true,
   "contributors": [
-
+    {
+      "login": "marcuxyz",
+      "name": "Marcus Pereira",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/9499562?v=4",
+      "profile": "http://marcuspereira.xyz",
+      "contributions": [
+        "code",
+        "review",
+        "maintenance",
+        "doc"
+      ]
+    }
   ],
   "projectName": "saturno",
-  "projectOwner": "marcuxyz",
+  "projectOwner": "jairomr",
   "repoType": "github",
-  "repoHost": "https://github.com/marcuxyz/saturno"
+  "repoHost": "https://github.com"
 }
